@@ -1,5 +1,6 @@
 # Preface
-Many of the plots here cannot be rendered in the markdown format, to see the plots please use the base ipynb
+Many of the plots here are interactive. As such it is recommended to download the ipynb and run the notebook to see the visulaisations
+
 
 ## Introduction: How does global events and politics shape UNGA roll calls?
 
